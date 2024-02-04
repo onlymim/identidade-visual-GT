@@ -1,0 +1,23 @@
+body{
+	background-color:#01004b ;
+}
+/*header*/
+#logo{
+	height: 200px;
+	width: 200px;
+	
+}
+
+/*header-fim*/
+
+#content{
+	text-align: center;
+	
+}
+
+#owl-family{
+	margin-top:0px;
+	height: 400px;
+	width: 400px;
+	
+}
